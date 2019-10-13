@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+D:\ЛП\Дискретна математика\Лабораторна2\Lab2\Lab2\Lab2.cpp(62,30): warning C4101:  'pp': unreferenced local variable
+D:\ЛП\Дискретна математика\Лабораторна2\Lab2\Lab2\Lab2.cpp(72,9): warning C4101:  'per': unreferenced local variable
+  Lab2.vcxproj -> D:\ЛП\Дискретна математика\Лабораторна2\Lab2\Debug\Lab2.exe
